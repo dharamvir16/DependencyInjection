@@ -1,0 +1,7 @@
+D:\MyTestig App\DepedencyInjection\DepedencyInjection\obj\Debug\DepedencyInjection.csprojResolveAssemblyReference.cache
+D:\MyTestig App\DepedencyInjection\DepedencyInjection\obj\Debug\DepedencyInjection.csproj.CoreCompileInputs.cache
+D:\MyTestig App\DepedencyInjection\DepedencyInjection\bin\Debug\DepedencyInjection.exe.config
+D:\MyTestig App\DepedencyInjection\DepedencyInjection\bin\Debug\DepedencyInjection.exe
+D:\MyTestig App\DepedencyInjection\DepedencyInjection\bin\Debug\DepedencyInjection.pdb
+D:\MyTestig App\DepedencyInjection\DepedencyInjection\obj\Debug\DepedencyInjection.exe
+D:\MyTestig App\DepedencyInjection\DepedencyInjection\obj\Debug\DepedencyInjection.pdb
